@@ -26,10 +26,10 @@ from config import select_value
 
 #====conf====
 DATA_PATH = "./data/"
-DB_HOST = "10.50.42.75"
+DB_HOST = ""
 DB_PORT = 3306
 DB_USER = "work"
-DB_PASS = "npswork627"
+DB_PASS = ""
 DB_NAME = "db_interma"
 DB_TABLE = "i18n_news_final"
 #field:
